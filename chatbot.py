@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # 🔐 SET YOUR OPENAI API KEY HERE
-openai.api_key = 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
+openai.api_key = "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"
 
 # 🔹 Your personal info used by the AI
 personal_info = """
